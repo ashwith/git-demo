@@ -7,3 +7,4 @@ Git Demo Workshop
 - Add a file
 - git status
 - git add
+- changing stuff in a new branch
